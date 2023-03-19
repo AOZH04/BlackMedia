@@ -6,4 +6,4 @@
 
 contact: https://telegram.me/aoozh
 
-![alt text](img/screenshot.png)
+
