@@ -4,6 +4,7 @@
 # https://aozh04.github.io/BlackMedia/
 # https://blackmedia.digital/
 
+Имеется шаблон на WordPress
 contact: https://telegram.me/aoozh
 
 ![alt text](img/screenshot.png)
